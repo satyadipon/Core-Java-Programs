@@ -1,4 +1,4 @@
-package codes;
+package type_3_sorting;
 
 public class BubbleSort {
 

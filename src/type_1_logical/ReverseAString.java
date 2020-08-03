@@ -1,4 +1,4 @@
-package codes;
+package type_1_logical;
 
 public class ReverseAString {
 
