@@ -3,7 +3,7 @@ package type_1_logical;
 public class RemoveWhiteSpaces {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+
 		removeWhiteSpaces("A BB  CCC	DDD .");
 	}
 	

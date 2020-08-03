@@ -3,8 +3,9 @@ package type_1_logical;
 public class Armstrong {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+
 		isArmstrong(153);
+		
 	}
 	
 	static void isArmstrong(int input)

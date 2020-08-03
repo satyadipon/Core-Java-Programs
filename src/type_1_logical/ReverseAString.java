@@ -3,7 +3,7 @@ package type_1_logical;
 public class ReverseAString {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+
 		String s = recursiveMethod("satya");
 
 		System.out.println(s);
